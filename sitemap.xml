@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/defcon/</loc>
+    <loc>https://last-person.github.io/post/defcon/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/post/books/</loc>
+    <loc>https://last-person.github.io/post/books/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://last-person.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://last-person.github.io/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://last-person.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://last-person.github.io/</loc>
   </url>
   
 </urlset>

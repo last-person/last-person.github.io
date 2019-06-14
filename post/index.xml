@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lonely Hackers Club</title>
-    <link>http://example.org/post/</link>
+    <link>https://last-person.github.io/post/</link>
     <description>Recent content in Posts on Lonely Hackers Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://last-person.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DEF CON n00b guide</title>
-      <link>http://example.org/post/defcon/</link>
+      <link>https://last-person.github.io/post/defcon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/defcon/</guid>
+      <guid>https://last-person.github.io/post/defcon/</guid>
       <description>DEF CON Guide DEF CON Belonging (Sometimes You Feel Like a Nut. Sometimes You Don’t.) Getting Involved and Making New Hacker Friends  Be Inclusive (“Pac Man” Theory)  Transportation  Airport Tips/Tricks International Hackers Hotels Hotel Room Hax Work Trip?  “Doing The Con”  Badges LineCon DEF CON Program Navigating the Con Swag/Vendor Area Tracks/Talks RoomCon DC101 Villages Workshops Contests and Events CFP SkyTalks Parties  Con Life  3-2-1 Rule Handles Goons (Those Cool People in Red, Often Confused with Deadpool) $$$$ aka MONEY Pack Light, Have Comfortable Shoes Daily Loadout Medical Supplies/Medicine Badge Life/Indie Badges Con Flu Bathrooms Shenanigans Collectible/Swag Challenge Coins  Staying Informed  Hacker Tracker App Twitter Slack Reddit Lonely Hackers Club  Security/Privacy  Photos/Videos Device Security/Privacy Burner Devices Room Security/Privacy Personal Security/Safety Bring a Battle Buddy Being Stupid?</description>
     </item>
     
     <item>
       <title>books</title>
-      <link>http://example.org/post/books/</link>
+      <link>https://last-person.github.io/post/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/books/</guid>
+      <guid>https://last-person.github.io/post/books/</guid>
       <description>So you wanna get your learn on huh? Below is intended to be a growing list of books to help you level up those hacker skills
 The Knowledgebase Hacking the Art of exploitation
 Practical Malware Analysis
